@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [younes_jabbour.me](younes_jabbour.me)
 
-- 📫 How to reach me **younessjb711@gmail.com**
+- 📫 How to reach me **yns.jabbour@gmail.com**
 
 - 📄 Know about my experiences [cv.pdf](cv.pdf)
 
