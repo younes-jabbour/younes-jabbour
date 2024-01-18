@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yns.jabbour@gmail.com**
 
-- 📄 Know about my experiences [cv.pdf](cv.pdf)
+- 📄 Know about my experiences [cv.pdf](https://github.com/younes-jabbour/younes-jabbour/blob/main/docs/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
