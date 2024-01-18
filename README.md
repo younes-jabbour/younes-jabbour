@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **software engineer at ENSET mohemmadia, Morroco.**
 
-- 👨‍💻 All of my projects are available at [younes_jabbour.me](https://portfolio-psi-five-96.vercel.app/)
+- 👨‍💻 All of my projects are available at [younes_jabbour.me](https://portfolio-psi-five-96.vercel.app/){:target="_blank"}
 
 - 📫 How to reach me **yns.jabbour@gmail.com**
 
-- 📄 Know about my experiences [cv.pdf](https://github.com/younes-jabbour/younes-jabbour/blob/main/docs/cv.pdf)
+- 📄 Know about my experiences [cv.pdf](https://github.com/younes-jabbour/younes-jabbour/blob/main/docs/cv.pdf){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
